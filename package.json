@@ -1,0 +1,12 @@
+{
+  "name": "weth",
+  "description": "Wrapped ETH on Ethereum network",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.1.3",
+    "web3": "^1.3.3"
+  }
+}
